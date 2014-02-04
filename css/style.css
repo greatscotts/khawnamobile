@@ -247,6 +247,17 @@ background-color: #FFFFFF;
 }​
 
 
+#slide11{
+
+	background-image: url(../images/h14.jpg);
+	background-size: cover;
+		
+	
+	background-color: #000000;
+
+
+}​
+
 
 
 #slideabout1{
@@ -413,7 +424,7 @@ font-size: 12px;
 @-o-keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
-}​
+}
 
 /******************************
 		WHAT WE DO
@@ -422,9 +433,10 @@ font-size: 12px;
 #pisaraMessage{
 
 	padding-top: 70px;
-	font-size: 50px;
+	font-size: 40px;
 	text-align: center;
 	margin: auto;
+	color: #FB861D;
 
 
 }
