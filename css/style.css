@@ -283,9 +283,9 @@ background-color: #FFFFFF;
 #homeText{
 
 	height: 100px;
-	width: 600px;
+	width: 900px;
 	color: #FFF;
-	padding: 50px 130px;
+	padding: 50px 110px;
 }
 
 #homeTextHeader{
@@ -310,6 +310,17 @@ font-size: 12px;
 	
 	text-align: justify;
 	font-family: 'Open Sans';
+	opacity: 0.8;
+}
+
+
+#homeTextBody3{
+
+	
+	font-size: 20px;
+	
+	font-family: 'Helvetica Neue';
+	 font-weight: lighter;
 	opacity: 0.8;
 }
 
