@@ -217,13 +217,13 @@ background-color: #FFFFFF;
 	background-size: cover;
 		
 	
-	background-color: #000000;
-
 	
--webkit-animation: fadein 5s; /* Safari and Chrome */
-       -moz-animation: fadein 4s; /* Firefox */
-        -ms-animation: fadein 4s; /* Internet Explorer */
-         -o-animation: fadein 4s; /* Opera */
+/*
+	
+-webkit-animation: fadein 5s; /* Safari and Chrome *
+       -moz-animation: fadein 4s; /* Firefox *
+        -ms-animation: fadein 4s; /* Internet Explorer *
+         -o-animation: fadein 4s; /* Opera *
             animation: fadein 4s;
 }
 
@@ -232,29 +232,25 @@ background-color: #FFFFFF;
     to   { opacity: 1; }
 }
 
-/* Firefox */
+/* Firefox *
 @-moz-keyframes fadein {
     from { opacity: 10; }
     to   { opacity: 1; }
 }
 
-/* Safari and Chrome */
+/* Safari and Chrome *
 @-webkit-keyframes fadein {
     from { opacity: 10; }
     to   { opacity: 1; }
 }
 
-/* Internet Explorer */
+/* Internet Explorer *
 @-ms-keyframes fadein {
     from { opacity: 10; }
     to   { opacity: 1; }
 }​
 
 /* Opera */
-@-o-keyframes fadein {
-    from { opacity: 10; }
-    to   { opacity: 1; }
-}​
 
 
 
